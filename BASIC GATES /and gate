@@ -15,3 +15,4 @@ architecture andlogic of AND_gate is
 begin
     Y <= A AND B;
 end andlogic;
+
